@@ -25,6 +25,7 @@ h1,h2,h3
 }
 img{
 	width: 10%;
+	border:1px solid black;
 }
 header
  {
@@ -41,3 +42,6 @@ header
  {
 	text-align: center;
  }
+ a:hover {
+  
+}
